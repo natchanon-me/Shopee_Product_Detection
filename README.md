@@ -16,7 +16,7 @@ In this competition, a multiple image classification model needs to be built. Th
 
 ### Result :
 
-1st try -> LeNet5 Model ------------------------> training acc = 0.3 
+1st try -> LeNet5 Model -----------------------> training acc = 0.3 
 
 2nd try -> EfficientNetB7 ----------------------> training acc = 0.7
 
