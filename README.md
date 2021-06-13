@@ -21,3 +21,9 @@ In this competition, a multiple image classification model needs to be built. Th
 2nd try ------> EfficientNetB7 ----------------------> training acc = 0.7
 
 3rd try ------> Bilinear Using EfficientNetB7 -------> training acc = 0.8 --------> test acc = 0.79 
+
+Right now (13/06/21) The best i've got is around 0.8 test accuracy.
+
+Problem : I've try the same way as 3rd try, but this time i unfreeze the transfer layers but its lack of resource.
+
+--> Cleaning data using dhash to get rid of duplicated images
