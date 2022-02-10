@@ -24,6 +24,6 @@ In this competition, a multiple image classification model needs to be built. Th
 
 Right now (13/06/21) The best i've got is around 0.8 test accuracy.
 
-Problem : I've try the same way as 3rd try, but this time i unfreeze the transfer layers but its lack of resource.
+Problem : I've try the same way as 3rd try, but this time i unfreeze the transfer layers but it lack of resource.
 
 --> Cleaning data using dhash algorithm to get rid of duplicated images
